@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **my portfolio website**
 
 - 🌱 I’m currently learning **React, Angular**
 
