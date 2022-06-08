@@ -8,9 +8,9 @@
 
 - 🤝 I’m looking for help with **outstanding video tutorials**
 
-- 📫 How to reach me **waldemar.teichreb@gmx.net**
+- 📫 How to reach me: **waldemar.teichreb@gmx.net**
 
-- ⚡ Fun fact **I play video games and the piano**
+- ⚡ Fun fact: **I play video games and the piano**
 
 
 <h3 align="left">Tools:</h3>
