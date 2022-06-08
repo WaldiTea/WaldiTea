@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- :computer: Most used shortcut `cmd/ctrl + s`**
+- :computer: Most used shortcut `cmd/ctrl + s`
 
 - 🌱 I’m currently learning **React, Angular**
 
