@@ -13,7 +13,6 @@
 - ⚡ Fun fact: **I play video games and the piano**
 
 <br />
-<br />
 
 <h3 align="left">Tools:</h3>
 
