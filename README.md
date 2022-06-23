@@ -8,7 +8,7 @@
 
 - :computer: Most used shortcut `cmd/ctrl + s`
 
-- 🌱 I’m currently learning **React, Angular**
+- 🌱 I’m currently learning **TypeScript, Angular**
 
 - 🤝 I’m looking for help with **outstanding video tutorials**
 
